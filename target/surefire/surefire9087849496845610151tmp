@@ -1,0 +1,8 @@
+#surefire
+#Thu Jun 22 22:42:01 GMT 2017
+maven.ext.class.path=C\:\\Users\\BiB\\AppData\\Roaming\\NetBeans\\8.0.2\\maven-nblib\\netbeans-eventspy.jar
+user.dir=C\:\\Users\\BiB\\Documents\\NetBeansProjects\\Geolocalisation-DAO
+file.encoding=UTF-8
+localRepository=C\:\\Users\\BiB\\.m2\\repository
+basedir=C\:\\Users\\BiB\\Documents\\NetBeansProjects\\Geolocalisation-DAO
+test=sn.modelsis.controller.TrackingJpaControllerTest\#testGetActualPosition
